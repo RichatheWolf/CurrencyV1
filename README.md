@@ -1,4 +1,4 @@
-# CurrencyV1
+# Currency V1 PMR
 
 
 PMR: Currency Project: there was not too much difficulty in putting together this challenge project.
